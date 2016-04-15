@@ -1,0 +1,20 @@
+
+body{
+
+	background-image: url("../images/sm.jpg");
+	background-position: center;
+	text-align: center;
+
+	font-family: 'Muli', sans-serif;
+	color: #E2F3FF;
+}
+
+
+h1{
+	font-size: 50pt
+}
+
+img{
+	width: 70%;
+	height: 70%;
+}
